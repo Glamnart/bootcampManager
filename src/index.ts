@@ -28,6 +28,7 @@ console.log(input * 2);
 } else {
 console.log("Invalid input");
 }
+
 };
 
 // Print a single report line for a student
